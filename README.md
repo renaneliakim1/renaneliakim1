@@ -64,13 +64,13 @@ I am a programming student, currently focused on improving myself in the vast te
 <div align="center"> 
  
  
-  <a href="https://www.linkedin.com/in/renaneliakim1">
+  <a href="https://www.linkedin.com/in/renaneliakim1"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:renaneliakim1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.instagram.com/renaneliakim">
+  <a href="https://www.instagram.com/renaneliakim"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram" target="_blank" />
   </a>
   </div>
