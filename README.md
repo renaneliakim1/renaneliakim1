@@ -64,7 +64,7 @@ I am a programming student, currently focused on improving myself in the vast te
 <div align="center"> 
  
  
-  <a href="https://www.linkedin.com/in/renaneliakim1"  target="_blank">
+  <a href="https://www.linkedin.com/in/renaneliakim"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:renaneliakim1@gmail.com" target="_blank">
